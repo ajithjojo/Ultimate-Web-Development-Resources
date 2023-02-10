@@ -103,6 +103,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Exercism](https://exercism.org/)
 - [InternetingIsHard](https://www.internetingishard.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
+- [Codeconia](https://codeconia.com/)
 
 ## Websites for code challenges
 
@@ -231,6 +232,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
+- [Tabler opensource Admin Theme](https://tabler.io/)
 
 ## Website Copier
 
@@ -300,6 +302,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 - [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+- [Ajith Jojo](https://www.youtube.com/c/ajithjojo118)
 
 ## HTML Learning Resources
 
